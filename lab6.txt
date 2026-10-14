@@ -1,1 +1,32 @@
-72 ?- can_buy(150000, red).With 130000 you can purchase the red car chryslertrue ;With 80000 you can purchase the red car datsuntrue ;73 ?- can_buy(144000, blue).With 80000 you can purchase the blue truck fordtrue.74 ?- can_buy(100000, black).With 25000 you can purchase the black truck toyotatrue.75 ?- can_buy(100000, red).With 80000 you can purchase the red car datsuntrue ;
+72 ?- can_buy(150000, red).
+With 130000 you can purchase the red car chrysler
+true ;
+With 80000 you can purchase the red car datsun
+true ;
+
+
+73 ?- can_buy(144000, blue).
+With 80000 you can purchase the blue truck ford
+true.
+
+
+74 ?- can_buy(100000, black).
+With 25000 you can purchase the black truck toyota
+true.
+
+
+75 ?- can_buy(100000, red).
+With 80000 you can purchase the red car datsun
+true ;
+
+
+
+
+
+
+
+
+
+
+
+
